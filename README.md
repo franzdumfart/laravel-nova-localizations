@@ -4,6 +4,7 @@
 * **da** – Complete, thanks to [@peterbrinck](https://github.com/peterbrinck)
 * **de** – Complete
 * **en** – Complete
+* **es** – Incomplete, thanks to [@tinthenet](https://github.com/tinthenet)
 * **fr** – Complete, thanks to [@xel1045](https://github.com/xel1045)
 * **nl** – Complete, thanks to [@Cannonb4ll](https://github.com/Cannonb4ll) and [@patrickbergman](https://github.com/patrickbergman)
 * **pl** – Complete, thanks to [@aurawindsurfing](https://github.com/aurawindsurfing)
