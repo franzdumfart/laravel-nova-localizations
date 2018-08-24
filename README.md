@@ -6,6 +6,7 @@
 * **en** – Complete
 * **es** – Incomplete, thanks to [@tinthenet](https://github.com/tinthenet)
 * **fr** – Complete, thanks to [@xel1045](https://github.com/xel1045)
+* **it** - Complete, thanks to [s3b4stian](https://github.com/s3b4stian)
 * **nl** – Complete, thanks to [@Cannonb4ll](https://github.com/Cannonb4ll) and [@patrickbergman](https://github.com/patrickbergman)
 * **pl** – Complete, thanks to [@aurawindsurfing](https://github.com/aurawindsurfing)
 * **sq** – Complete, thanks to [@sallmin](https://github.com/sallmin)
