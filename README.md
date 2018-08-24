@@ -6,7 +6,7 @@
 * **nl** – Complete, thanks to [@Cannonb4ll](https://github.com/Cannonb4ll)
 
 ### Usage
-Just download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
+Navigate to the `lang` folder, download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
 For further details about Nova Localization please check out [the docs](https://nova.laravel.com/docs/1.0/customization/localization.html).
 
 ### Help
