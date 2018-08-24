@@ -1,7 +1,9 @@
 # Localization files for Laravel Nova
 
 ### Status
-* **de** – Complete 
+* **en** – Complete
+* **de** – Complete
+* **nl** – Complete, thanks to @Cannonb4ll
 
 ### Usage
 Just download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
