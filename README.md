@@ -3,7 +3,7 @@
 ### Status
 * **en** – Complete
 * **de** – Complete
-* **nl** – Complete, thanks to @Cannonb4ll
+* **nl** – Complete, thanks to [@Cannonb4ll](https://github.com/Cannonb4ll)
 
 ### Usage
 Just download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
