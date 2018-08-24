@@ -14,6 +14,6 @@ return [
     */
 
     'attached' => 'Denne :attribute er allerede vedhæftet.',
-    'relatable' => 'This :attribute kan ikke være forbundet med denne ressource.',
+    'relatable' => 'Denne :attribute kan ikke være forbundet med denne ressource.',
 
 ];
