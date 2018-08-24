@@ -1,9 +1,13 @@
 # Localization files for Laravel Nova
 
 ### Status
+* **da** – Complete, thanks to [@peterbrinck](https://github.com/peterbrinck)
 * **de** – Complete
 * **en** – Complete
+* **fr** – Complete, thanks to [@xel1045](https://github.com/xel1045)
 * **nl** – Complete, thanks to [@Cannonb4ll](https://github.com/Cannonb4ll)
+* **pl** – Complete, thanks to [@aurawindsurfing](https://github.com/aurawindsurfing)
+* **sq** – Complete, thanks to [@sallmin](https://github.com/sallmin)
 * **tr** – Complete, thanks to [@emir](https://github.com/emir)
 
 ### Usage
