@@ -16,6 +16,7 @@
 * **sq** – thanks to [sallmin](https://github.com/sallmin)
 * **tl** – thanks to [ambengers](https://github.com/ambengers)
 * **tr** – thanks to [emir](https://github.com/emir)
+* **uk** – thanks to [ustych](https://github.com/ustych)
 
 ### Usage
 Navigate to the `lang` folder, download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
