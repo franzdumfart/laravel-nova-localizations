@@ -6,7 +6,7 @@
 * **de** – Complete, thanks to [mrmonat](https://github.com/mrmonat)
 * **en** – Complete
 * **es** – Complete, thanks to [tinthenet](https://github.com/tinthenet) and [Zerquix18](https://github.com/Zerquix18)
-* **fr** – Complete, thanks to [xel1045](https://github.com/xel1045)
+* **fr** – Complete, thanks to [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat)
 * **it** - Complete, thanks to [s3b4stian](https://github.com/s3b4stian)
 * **nl** – Complete, thanks to [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman)
 * **pl** – Complete, thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
