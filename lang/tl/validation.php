@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'attached' => 'Naka attach na ang :attribute.',
+    'attached' => 'Nakakabit na ang :attribute.',
     'relatable' => 'Hindi maaaring mai-associate ang :attribute sa resource na ito.',
 
 ];
