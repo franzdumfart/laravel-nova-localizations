@@ -7,6 +7,7 @@
 * **en** – thanks to the Nova folks
 * **es** – thanks to [tinthenet](https://github.com/tinthenet) and [Zerquix18](https://github.com/Zerquix18)
 * **fr** – thanks to [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat)
+* **gr** – thanks to [Erth0](https://github.com/Erth0)
 * **it** - thanks to [s3b4stian](https://github.com/s3b4stian)
 * **nl** – thanks to [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman)
 * **pl** – thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
