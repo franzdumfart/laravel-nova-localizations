@@ -3,7 +3,7 @@
 ### Status
 * **ar** – thanks to [hanikeddah](https://github.com/hanikeddah)
 * **da** – thanks to [peterbrinck](https://github.com/peterbrinck)
-* **de** – thanks to [mrmonat](https://github.com/mrmonat)
+* **de** – thanks to [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda)
 * **en** – thanks to the Nova folks
 * **es** – thanks to [tinthenet](https://github.com/tinthenet) and [Zerquix18](https://github.com/Zerquix18)
 * **fr** – thanks to [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat)
@@ -12,8 +12,8 @@
 * **pl** – thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
 * **ru** – thanks to [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov)
 * **sq** – thanks to [sallmin](https://github.com/sallmin)
-* **tr** – thanks to [emir](https://github.com/emir)
 * **tl** – thanks to [ambengers](https://github.com/ambengers)
+* **tr** – thanks to [emir](https://github.com/emir)
 
 ### Usage
 Navigate to the `lang` folder, download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
