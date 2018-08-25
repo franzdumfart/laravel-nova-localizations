@@ -10,6 +10,7 @@
 * **it** - thanks to [s3b4stian](https://github.com/s3b4stian)
 * **nl** – thanks to [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman)
 * **pl** – thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
+* **pt_BR** – thanks to [dessimoni](https://github.com/dessimoni)
 * **ru** – thanks to [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov)
 * **sq** – thanks to [sallmin](https://github.com/sallmin)
 * **tl** – thanks to [ambengers](https://github.com/ambengers)
