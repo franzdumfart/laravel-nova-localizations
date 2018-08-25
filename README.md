@@ -3,7 +3,7 @@
 ### Status
 * **ar** – Complete, thanks to [hanikeddah](https://github.com/hanikeddah)
 * **da** – Complete, thanks to [peterbrinck](https://github.com/peterbrinck)
-* **de** – Complete
+* **de** – Complete, thanks to [mrmonat](https://github.com/mrmonat)
 * **en** – Complete
 * **es** – Complete, thanks to [tinthenet](https://github.com/tinthenet) and [Zerquix18](https://github.com/Zerquix18)
 * **fr** – Complete, thanks to [xel1045](https://github.com/xel1045)
