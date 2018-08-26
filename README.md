@@ -12,6 +12,7 @@
 * **id** – thanks to [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed)
 * **it** - thanks to [s3b4stian](https://github.com/s3b4stian)
 * **nl** – thanks to [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman)
+* **nb_no** – thanks to [LasseHaslev](https://github.com/LasseHaslev)
 * **pl** – thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
 * **pt_BR** – thanks to [dessimoni](https://github.com/dessimoni)
 * **ru** – thanks to [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov)
