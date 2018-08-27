@@ -1,27 +1,29 @@
 # Localization files for Laravel Nova
 
-### Status
-* **ar** – thanks to [hanikeddah](https://github.com/hanikeddah)
-* **bn** – thanks to [iamazik](https://github.com/iamazik)
-* **da** – thanks to [peterbrinck](https://github.com/peterbrinck)
-* **de** – thanks to [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda)
-* **en** – thanks to the Nova folks
-* **es** – thanks to [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade)
-* **fr** – thanks to [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat)
-* **gr** – thanks to [Erth0](https://github.com/Erth0)
-* **id** – thanks to [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed)
-* **it** - thanks to [s3b4stian](https://github.com/s3b4stian)
-* **lt** – thanks to [girvydas](https://github.com/girvydas)
-* **nb_NO** – thanks to [LasseHaslev](https://github.com/LasseHaslev)
-* **nl** – thanks to [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman)
-* **pl** – thanks to [aurawindsurfing](https://github.com/aurawindsurfing)
-* **pt_BR** – thanks to [dessimoni](https://github.com/dessimoni)
-* **ru** – thanks to [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov)
-* **sq** – thanks to [sallmin](https://github.com/sallmin)
-* **tl** – thanks to [ambengers](https://github.com/ambengers)
-* **tr** – thanks to [emir](https://github.com/emir)
-* **uk** – thanks to [ustych](https://github.com/ustych)
-* **zh_CN** – thanks to [jltxwesley](https://github.com/jltxwesley)
+| Code | Language | Thanks to | % |
+| ------------- | ------------- | ------------- | ------------- |
+| **ar**  | Arabic | [hanikeddah](https://github.com/hanikeddah)  |  100  | 
+| **bn**  | Bengali | [iamazik](https://github.com/iamazik) |  100  |
+| **da**  | Danish | [peterbrinck](https://github.com/peterbrinck) | 100  |
+| **de** | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) | 100  |
+| **en**  | English | Nova folks | 100  |
+| **es**  | Spanish | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) | 100  |
+| **fr**  | French | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) | 100  |
+| **gr**  | Greek | [Erth0](https://github.com/Erth0) | 100  |
+| **id**  | Indonesian | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) | 100  |
+| **it**  | Italian | [s3b4stian](https://github.com/s3b4stian) | 100  |
+| **lt**  | Lithuanian | [s3b4stian](https://github.com/s3b4stian) | 100  |
+| **nb_NO**  | Norwegian | [LasseHaslev](https://github.com/LasseHaslev) | 100  |
+| **nl**  | Netherlands | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) | 100  |
+| **pl**  | Polish | [aurawindsurfing](https://github.com/aurawindsurfing) | 100  |
+| **pt_BR**  | Portuguese | [dessimoni](https://github.com/dessimoni) | 100  |
+| **ru**  | Russian | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) | 100  |
+| **sq**  | Albanian | [sallmin](https://github.com/sallmin) | 100  |
+| **tl**  | Tagalog | [ambengers](https://github.com/ambengers) | 100  |
+| **tr**  | Turkish | [emir](https://github.com/emir) | 100  |
+| **uk**  | Ukrainian | [ustych](https://github.com/ustych) | 100  |
+| **zh_CN**  | Chinese | [jltxwesley](https://github.com/jltxwesley) | 100  |
+
 
 ### Usage
 Navigate to the `lang` folder, download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
