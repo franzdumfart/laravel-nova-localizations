@@ -4,7 +4,7 @@ This repository is like Babbel for your **Lavel Nova** app. Without the learning
 
 ---
 
-### Available languages
+## Available languages
 
 | Code | LCID | Language | Thanks to |
 | ------------- | ------------- | ------------- | ------------- |
@@ -31,9 +31,9 @@ This repository is like Babbel for your **Lavel Nova** app. Without the learning
 | **zh**  | zh-cn | Chinese (China) | [jltxwesley](https://github.com/jltxwesley) |
 
 
-### Usage
+## Usage
 Navigate to the `lang` folder, download your preferred language-files and save them to `/resources/lang/vendor/nova/`.
 For further details about Nova Localization please check out [the docs](https://nova.laravel.com/docs/1.0/customization/localization.html).
 
-### Help
+## Help
 Feel free to submit a pull request and add your desired language or updates.
