@@ -6,30 +6,29 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ## Available languages (21 languages)
 
-| Code | LCID | Language | Thanks to |
-| ------------- | ------------- | ------------- | ------------- |
-| **ar**  |  | Arabic | [hanikeddah](https://github.com/hanikeddah)  |
-| **bn**  | bn-BD | Bengali | [iamazik](https://github.com/iamazik) |
-| **da**  |  | Danish | [peterbrinck](https://github.com/peterbrinck) |
-| **de** | de-de | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
-| **en**  | en-us | English | Nova folks |
-| **es**  | es-es | Spanish | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
-| **fr**  | fr-fr | French | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
-| **gr**  |  | Greek | [Erth0](https://github.com/Erth0) |
-| **id**  |  | Indonesian | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
-| **it**  |  | Italian | [s3b4stian](https://github.com/s3b4stian) |
-| **lt**  |  | Lithuanian | [s3b4stian](https://github.com/s3b4stian) |
-| **nb** | no-no | Norwegian | [LasseHaslev](https://github.com/LasseHaslev) |
-| **nl**  |  | Netherlands | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
-| **pl**  |  | Polish | [aurawindsurfing](https://github.com/aurawindsurfing) |
-| **pt**  | 	pt-br | Portuguese (Brazil) | [dessimoni](https://github.com/dessimoni) |
-| **ru**  |  | Russian | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
-| **sq**  |  | Albanian | [sallmin](https://github.com/sallmin) |
-| **tl**  |  | Tagalog | [ambengers](https://github.com/ambengers) |
-| **tr**  |  | Turkish | [emir](https://github.com/emir) |
-| **uk**  |  | Ukrainian | [ustych](https://github.com/ustych) |
-| **zh**  | zh-cn | Chinese (China) | [jltxwesley](https://github.com/jltxwesley) |
-
+| Language | Code | LCID | Thanks to |
+| :--- | ------------- | ------------- | :--- |
+| Arabic  | **ar** |  | [hanikeddah](https://github.com/hanikeddah)  |
+| Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
+| Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
+| Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
+| Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
+| English  | **en** | en-us | Nova folks |
+| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
+| German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
+| Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
+| Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
+| Italian  | **it** |  | [s3b4stian](https://github.com/s3b4stian) |
+| Lithuanian  | **lt** |  | [s3b4stian](https://github.com/s3b4stian) |
+| Netherlands  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
+| Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
+| Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
+| Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
+| Russian  | **ru** |  | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
+| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
+| Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
+| Turkish  | **tr** |  | [emir](https://github.com/emir) |
+| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
 
 ## Usage
 
