@@ -1,4 +1,4 @@
-[Laravel Nova Localization Logo](/logo.png)
+![Laravel Nova Localization Logo](./logo.png)
 
 ## Localization files for Laravel Nova
 
