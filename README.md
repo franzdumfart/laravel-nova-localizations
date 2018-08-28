@@ -9,7 +9,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Code | LCID | Language | Thanks to |
 | ------------- | ------------- | ------------- | ------------- |
 | **ar**  |  | Arabic | [hanikeddah](https://github.com/hanikeddah)  |
-| **bn**  |  | Bengali | [iamazik](https://github.com/iamazik) |
+| **bn**  | bn-BD | Bengali | [iamazik](https://github.com/iamazik) |
 | **da**  |  | Danish | [peterbrinck](https://github.com/peterbrinck) |
 | **de** | de-de | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
 | **en**  | en-us | English | Nova folks |
