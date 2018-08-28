@@ -2,6 +2,8 @@
 
 This repository is like Babbel for your **Lavel Nova** app. Without the learning part. It's a curated list of more than twenty language-files for your favorite admin panel. Big thanks to all the great contributors worldwide.
 
+---
+
 ### Available languages
 
 | Code | LCID | Language | Thanks to |
