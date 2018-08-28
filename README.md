@@ -1,11 +1,21 @@
-# Localization files for Laravel Nova
+<div align="center">
+
+  [Laravel Nova Localization Logo](./logo.png)
+
+  ## Localization files for Laravel Nova
+
+  This repository is like Babbel for your **Lavel Nova** app. Without the learning part. It's a curated list of more than twenty language-files.
+
+</div>
+
+### Available languages
 
 | Code | LCID | Language | Thanks to |
 | ------------- | ------------- | ------------- | ------------- |
 | **ar**  |  | Arabic | [hanikeddah](https://github.com/hanikeddah)  |
 | **bn**  |  | Bengali | [iamazik](https://github.com/iamazik) |
 | **da**  |  | Danish | [peterbrinck](https://github.com/peterbrinck) |
-| **de** |  | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
+| **de** | de-de | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
 | **en**  | en-us | English | Nova folks |
 | **es**  | es-es | Spanish | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
 | **fr**  |  | French | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
@@ -16,13 +26,13 @@
 | **nb** | no-no | Norwegian | [LasseHaslev](https://github.com/LasseHaslev) |
 | **nl**  |  | Netherlands | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
 | **pl**  |  | Polish | [aurawindsurfing](https://github.com/aurawindsurfing) |
-| **pt**  | 	pt-br | Portuguese | [dessimoni](https://github.com/dessimoni) |
+| **pt**  | 	pt-br | Portuguese (Brazil) | [dessimoni](https://github.com/dessimoni) |
 | **ru**  |  | Russian | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
 | **sq**  |  | Albanian | [sallmin](https://github.com/sallmin) |
 | **tl**  |  | Tagalog | [ambengers](https://github.com/ambengers) |
 | **tr**  |  | Turkish | [emir](https://github.com/emir) |
 | **uk**  |  | Ukrainian | [ustych](https://github.com/ustych) |
-| **zh**  | zh-cn | Chinese | [jltxwesley](https://github.com/jltxwesley) |
+| **zh**  | zh-cn | Chinese (China) | [jltxwesley](https://github.com/jltxwesley) |
 
 
 ### Usage
