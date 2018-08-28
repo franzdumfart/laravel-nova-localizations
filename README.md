@@ -18,8 +18,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
 | Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
-| Italian  | **it** |  | [s3b4stian](https://github.com/s3b4stian) |
-| Lithuanian  | **lt** |  | [s3b4stian](https://github.com/s3b4stian) |
+| Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
+| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) |
 | Netherlands  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
