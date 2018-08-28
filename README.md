@@ -10,7 +10,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | :--- | ------------- | ------------- | :--- |
 | Arabic  | **ar** |  | [hanikeddah](https://github.com/hanikeddah)  |
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
-| Bengali  | **bn** | bn-BD | [iamazik](https://github.com/iamazik) |
+| Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
 | English  | **en** | en-us | Nova folks |
