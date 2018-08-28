@@ -1,6 +1,6 @@
 ![Laravel Nova Localization Logo](./logo.png)
 
-This repository is like Babel for your [Laravel Nova](https://nova.laravel.com) app, without the learning part. It's a curated list of more than twenty language files for your favorite admin panel. Big thanks to all the great worldwide contributors.
+This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com) app, without the learning part. It's a curated list of more than twenty language files for your favorite admin panel. Big thanks to all the great worldwide contributors.
 
 ---
 
@@ -52,6 +52,7 @@ You can make sure that you are always up to date with the latest translations by
     },
 }
 ```
+Don't forget to customize for your needs.
 
 ## Help
 Feel free to submit a pull request and add your desired language or updates.
