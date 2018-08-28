@@ -14,7 +14,7 @@ This repository is like Babbel for your **Lavel Nova** app. Without the learning
 | **de** | de-de | German | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda) |
 | **en**  | en-us | English | Nova folks |
 | **es**  | es-es | Spanish | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
-| **fr**  |  | French | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
+| **fr**  | fr-fr | French | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
 | **gr**  |  | Greek | [Erth0](https://github.com/Erth0) |
 | **id**  |  | Indonesian | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
 | **it**  |  | Italian | [s3b4stian](https://github.com/s3b4stian) |
