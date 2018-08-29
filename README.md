@@ -8,8 +8,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
-| Arabic  | **ar** |  | [hanikeddah](https://github.com/hanikeddah)  |
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
+| Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
@@ -22,14 +22,15 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) |
 | Netherlands  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
+| Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
-| Russian  | **ru** |  | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
+| Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
+| Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
 | Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
-| Persian(farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 
 ## Usage
 
