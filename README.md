@@ -24,11 +24,11 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
-| Russian  | **ru** |  | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
+| Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
-| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
+| Ukrainian  | **uk** | uk | [ustych](https://github.com/ustych) |
 
 ## Usage
 
