@@ -8,8 +8,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
-| Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
+| Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
@@ -25,6 +25,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
+| Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
