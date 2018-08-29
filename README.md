@@ -4,7 +4,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ---
 
-## Available languages (22 languages)
+## Available languages (23 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
@@ -22,6 +22,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) |
 | Netherlands  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll) and [patrickbergman](https://github.com/patrickbergman) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
+| Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
@@ -29,7 +30,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
-| Ukrainian  | **uk** | uk | [ustych](https://github.com/ustych) |
+| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
 
 ## Usage
 
