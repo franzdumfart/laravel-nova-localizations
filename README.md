@@ -8,7 +8,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
-| Arabic  | **ar** |  | [hanikeddah](https://github.com/hanikeddah)  |
+| Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
