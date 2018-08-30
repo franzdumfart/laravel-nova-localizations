@@ -14,6 +14,6 @@ return [
     */
 
     'attached' => ':attribute je že pripet.',
-    'relatable' => ':attribute ni mogoče združiti s tem virom.',
+    'relatable' => ':attribute morda ni mogoče povezati s tem virom.',
 
 ];
