@@ -13,6 +13,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
+| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman) |
 | English  | **en** | en-us | Nova folks |
 | French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
 | German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven) |
@@ -20,7 +21,6 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) |
-| Netherlands  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
