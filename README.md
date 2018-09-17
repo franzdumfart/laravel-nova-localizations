@@ -15,7 +15,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
 | English  | **en** | en-us | Nova folks |
 | French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
-| German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii) |
+| German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven) |
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
 | Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
