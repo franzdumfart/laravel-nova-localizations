@@ -4,7 +4,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ---
 
-## Available languages (23 languages)
+## Available languages (24 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
