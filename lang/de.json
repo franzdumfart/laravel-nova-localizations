@@ -350,5 +350,10 @@
     "Zambia": "Sambia",
     "Zimbabwe": "Zimbabwe",
     "Yes": "Ja",
-    "No": "Nein"
+    "No": "Nein",
+    "Action Name": "Name",
+    "Action Initiated By": "Initiiert von",
+    "Action Target": "Ziel",
+    "Action Status": "Status",
+    "Action Happened At": "Durchgeführt am"
 }
