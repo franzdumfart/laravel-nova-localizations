@@ -47,11 +47,12 @@ You can make sure that you are always up to date with the latest translations by
 ```json
 {
     "scripts": {
+        "pre-update-cmd": [
+            "@php -r \"mkdir('./resources/lang/vendor/nova', 0776, true);\"",
+            "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.json', './resources/lang/vendor/nova/fr.json') || exit (1);\""
+        ],
         "post-autoload-dump": [
-            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
-            "@php artisan package:discover",
-            "mkdir -p resources/lang/vendor/nova",
-            "wget https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.json -O resources/lang/vendor/nova/fr.json"
+            "..."
         ]
     },
 }
