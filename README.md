@@ -17,6 +17,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
 | Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman) |
 | English  | **en** | en-us | Nova folks |
+| Finnish  | **fi** |  | [ustych](https://github.com/joonas1234) |
 | French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
 | German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven) |
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
@@ -26,8 +27,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
-| Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
+| Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
 | Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
