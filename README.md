@@ -23,7 +23,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
 | Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
-| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) |
+| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) and [Justas Maziliauskas](https://github.com/justutiz) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
