@@ -6,7 +6,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ---
 
-## Available languages (24 languages)
+## Available languages (25 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
@@ -15,15 +15,16 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
-| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman) |
+| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur) |
 | English  | **en** | en-us | Nova folks |
 | Finnish  | **fi** |  | [joonas1234](https://github.com/joonas1234) |
-| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045) and [benjamincrozat](https://github.com/benjamincrozat) |
+| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat) |
 | German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven) |
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
-| Indonesian  | **id** |  | [mul14](https://github.com/mul14) and [zeroseed](https://github.com/zeroseed) |
+| Indonesian  | **id** |  | [mul14](https://github.com/mul14), [zeroseed](https://github.com/zeroseed) |
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
-| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas) and [Justas Maziliauskas](https://github.com/justutiz) |
+| Korean  | **ko** |  | [getsolaris](https://github.com/getsolaris) |
+| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz) |
 | Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
@@ -31,7 +32,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
 | Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
-| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18) and [driade](https://github.com/driade) |
+| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
 | Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
@@ -39,7 +40,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 ## Usage
 
 ### Manual
-Navigate to the `lang` folder, download your preferred language files and save them to `/resources/lang/vendor/nova/`.
+Navigate to the `lang` folder, download your preferred language files, save them to `/resources/lang/vendor/nova/`.
 For further details about Nova Localization, please check out [the docs](https://nova.laravel.com/docs/1.0/customization/localization.html).
 
 ### Automatic
@@ -61,4 +62,4 @@ You can make sure that you are always up to date with the latest translations by
 Don't forget to customize for your needs.
 
 ## Help
-Feel free to submit a pull request and add your desired language or updates.
+Feel free to submit a pull request, add your desired language or updates.
