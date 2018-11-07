@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'attached' => 'Denne :attribute er allerede koblet til.',
-    'relatable' => 'Denne :attribute kan ikke kobles til denne resursen.',
-
+    'attached' => ':attribute er allerede koblet til.',
+    'relatable' => ':attribute kan ikke kobles til denne ressursen.',
+    
 ];
