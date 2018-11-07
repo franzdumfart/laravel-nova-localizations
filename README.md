@@ -25,7 +25,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
 | Korean  | **ko** |  | [getsolaris](https://github.com/getsolaris) |
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz) |
-| Norwegian | **nb** | no-no | [LasseHaslev](https://github.com/LasseHaslev) |
+| Norwegian | **nb** | nb-no | [LasseHaslev](https://github.com/LasseHaslev), [Marcuzz](https://github.com/Marcuzz) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
