@@ -6,12 +6,14 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ---
 
-## Available languages (25 languages)
+## Available languages (26 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
+
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
 | Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
+| Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
