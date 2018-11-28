@@ -359,4 +359,9 @@
     "Action Target": "Doel",
     "Action Status": "Status",
     "Action Happened At": "Gebeurd op"
+    "object": "object",
+    "objecten": "objecten",
+    "Choose date": "Kies datum",
+    "The :resource was updated!": "Het :resource object is geüpdatet!",
+    "The resource was updated!": "Het object is geüpdatet!"
 }
