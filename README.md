@@ -1,3 +1,5 @@
+# Laravel Nova Localizations
+
 ![Laravel Nova Localization Logo](./logo.png)
 
 This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com) app, without the learning part. It's a curated list of more than twenty language files for your favorite admin panel. Big thanks to all the great worldwide contributors.
@@ -41,10 +43,12 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 ## Usage
 
 ### Manual
+
 Navigate to the `lang` folder, download your preferred language files, save them to `/resources/lang/vendor/nova/`.
 For further details about Nova Localization, please check out [the docs](https://nova.laravel.com/docs/1.0/customization/localization.html).
 
 ### Automatic
+
 You can make sure that you are always up to date with the latest translations by adding two commands on the `post-autoload-dump` hook in your `composer.json` file. Of course, you can do that for as many languages as you want.
 
 ```json
@@ -60,7 +64,9 @@ You can make sure that you are always up to date with the latest translations by
     },
 }
 ```
+
 Don't forget to customize for your needs.
 
 ## Help
+
 Feel free to submit a pull request, add your desired language or updates.
