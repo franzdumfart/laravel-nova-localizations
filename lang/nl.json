@@ -92,7 +92,7 @@
     "Whoops!": "Oeps!",
     "With Trashed": "Met verwijderde",
     "Trashed": "Verwijderd",
-    "Write": "Opslaan",
+    "Write": "Schrijven",
     "could not be found.": "kon niet worden gevonden.",
     "total": "totaal",
     "January": "januari",
@@ -358,5 +358,10 @@
     "Action Initiated By": "Geïnitieerd door",
     "Action Target": "Doel",
     "Action Status": "Status",
-    "Action Happened At": "Gebeurd op"
+    "Action Happened At": "Gebeurd op",
+    "object": "object",
+    "objecten": "objecten",
+    "Choose date": "Kies datum",
+    "The :resource was updated!": "Het :resource object is geüpdatet!",
+    "The resource was updated!": "Het object is geüpdatet!"
 }
