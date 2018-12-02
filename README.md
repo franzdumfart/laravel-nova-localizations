@@ -10,7 +10,6 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
-
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
 | Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
