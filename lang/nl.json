@@ -361,9 +361,9 @@
     "resources": "objecten",
     "Choose date": "Kies datum",
     "The :resource was updated!": "Het :resource object is geüpdatet!",
-    "The resource was updated!": "Het object is geüpdatet!"
+    "The resource was updated!": "Het object is geüpdatet!",
     "Increase": "Toegenomen",
     "Constant": "Gelijk",
     "Decrease": "Afgenomen",
-    "Reset Password Notification": "Herstel wachtwoord notificatie",
+    "Reset Password Notification": "Herstel wachtwoord notificatie"
 }
