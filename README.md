@@ -16,7 +16,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
-| Chinese (China)  | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
+| Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
+| Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
 | Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem) |
 | English  | **en** | en-us | Nova folks |
@@ -35,7 +36,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
 | Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
-| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade) |
+| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir) |
 | Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
