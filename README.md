@@ -2,13 +2,13 @@
 
 ![Laravel Nova Localization Logo](./logo.png)
 
-This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com) app, without the learning part. It's a curated list of more than twenty language files for your favorite admin panel. Big thanks to all the great worldwide contributors.
+This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com) app, without the learning part. It's a curated list of nearly thirty language files for your favorite admin panel. Big thanks to all the great worldwide contributors.
 
 [![StyleCI Status](https://github.styleci.io/repos/145764698/shield)](https://github.styleci.io/repos/145764698)
 
 ---
 
-## Available languages (26 languages)
+## Available languages (28 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
