@@ -16,6 +16,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
+| Catalan  | **ca** | es-ca | [lloople](https://github.com/lloople) |
 | Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
 | Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
