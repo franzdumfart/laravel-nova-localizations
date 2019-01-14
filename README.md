@@ -8,7 +8,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ---
 
-## Available languages (28 languages)
+## Available languages (29 languages)
 
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
@@ -39,7 +39,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
-| Turkish  | **tr** |  | [emir](https://github.com/emir) |
+| Turkish  | **tr** |  | [emir](https://github.com/emir), [EnesCakir](https://github.com/EnesCakir) |
 | Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
 
 ## Usage
