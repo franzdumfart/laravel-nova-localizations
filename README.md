@@ -13,7 +13,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Language | Code | LCID | Thanks to |
 | :--- | ------------- | ------------- | :--- |
 | Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
-| Arabic  | **ar** | ar-sy | [hanikeddah](https://github.com/hanikeddah)  |
+| Arabic  | **ar** | ar-sy | [Danyel Alkeddah](https://github.com/K3DVII)  |
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Catalan  | **ca** | es-ca | [lloople](https://github.com/lloople) |
