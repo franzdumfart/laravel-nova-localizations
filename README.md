@@ -33,7 +33,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz) |
 | Norwegian | **nb** | nb-no | [LasseHaslev](https://github.com/LasseHaslev), [Marcuzz](https://github.com/Marcuzz) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
-| Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing) |
+| Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing), [JackShev](https://github.com/JackShev) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
 | Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
 | Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov) |
