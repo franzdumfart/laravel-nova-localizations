@@ -17,8 +17,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
 | Catalan  | **ca** | es-ca | [lloople](https://github.com/lloople) |
-| Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley) |
-| Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom) |
+| Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley), [yangliulnn](https://github.com/yangliulnn) |
+| Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom), [yangliulnn](https://github.com/yangliulnn) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
 | Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem) |
 | English  | **en** | en-us | Nova folks |
