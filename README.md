@@ -41,7 +41,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
 | Turkish  | **tr** |  | [emir](https://github.com/emir), [EnesCakir](https://github.com/EnesCakir) |
-| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych) |
+| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych), [igorbabko](https://github.com/igorbabko) |
 
 ## Usage
 
