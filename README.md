@@ -36,7 +36,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing), [JackShev](https://github.com/JackShev) |
 | Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
 | Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
-| Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov), [mexoboy](https://github.com/mexoboy) |
+| Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov), [mexoboy](https://github.com/mexoboy), [darmen](https://github.com/darmen) |
 | Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
 | Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna) |
 | Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
