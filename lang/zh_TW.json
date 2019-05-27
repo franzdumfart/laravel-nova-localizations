@@ -370,5 +370,15 @@
     "Nova User": "Nova 用戶",
     "no file selected": "尚未選擇檔案",
     "Sorry, your session has expired.": "對不起，您的會話已過期。",
-    "Reload": "刷新"
+    "Reload": "刷新",
+    "Key": "鍵",
+    "Value": "值",
+    "Add row": "增加一行",
+    "Attach :resource": "附加 :resource",
+    "Create :resource": "建立 :resource",
+    "Choose :resource": "選擇 :resource",
+    "New :resource": "建立 :resource",
+    "Edit :resource": "編輯 :resource",
+    "Update :resource": "更新 :resource",
+    "Choose :field": "選擇 :field"
 }
