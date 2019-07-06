@@ -11,9 +11,9 @@ return [
     | the validator class. Some of these rules have multiple versions such
     | as the size rules. Feel free to tweak each of these messages here.
     |
- */
+    */
 
-    'attached' => 'Αυτό το :attribute είναι ήδη συνημμένο.',
-    'relatable' => 'Αυτή η :attribute ενδέχεται να μην συσχετίζεται με αυτόν τον πόρο.',
+    'attached' => ':attribute je že pripet.',
+    'relatable' => ':attribute morda ni mogoče povezati s tem virom.',
 
 ];
