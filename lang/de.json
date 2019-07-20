@@ -366,5 +366,20 @@
     "Constant": "Konstant",
     "Decrease": "Rückgang",
     "Reset Password Notification": "Passwort-Benachrichtigung zurücksetzen",
-    "Nova User": "Nova-Benutzer"
+    "Nova User": "Nova-Benutzer",
+    "of": "von",
+    "no file selected": "Keine Datei ausgewählt",
+    "Sorry, your session has expired.": "Entschuldigung, Deine Session ist abgelaufen.",
+    "Reload": "Neu laden",
+    "Key": "Schlüssel",
+    "Value": "Wert",
+    "Add row": "Zeile hinzufügen",
+    "Attach :resource": ":resource anhängen",
+    "Create :resource": "Erstelle :resource",
+    "Choose :resource": ":resource wählen",
+    "New :resource": "Neu :resource",
+    "Edit :resource": "Bearbeite :resource",
+    "Update :resource": "Aktualisiere :resource",
+    "Choose :field": ":field wählen",
+    "Download": "Herunterladen"
 }
