@@ -16,6 +16,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Arabic  | **ar** | ar-sy | [Danyel Alkeddah](https://github.com/K3DVII)  |
 | Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
 | Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
+| Bulgarian  | **bg** | bg | [suncho26](https://github.com/suncho26) |
 | Catalan  | **ca** | es-ca | [lloople](https://github.com/lloople) |
 | Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley), [yangliulnn](https://github.com/yangliulnn), [nighon](https://github.com/nighon) |
 | Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom), [yangliulnn](https://github.com/yangliulnn), [MilesWuCode](https://github.com/MilesWuCode) |
@@ -23,7 +24,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem) |
 | English  | **en** | en-us | Nova folks |
 | Finnish  | **fi** |  | [joonas1234](https://github.com/joonas1234), [SirMathays](https://github.com/SirMathays) |
-| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat), [electronick86](https://github.com/electronick86) |
+| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat), [electronick86](https://github.com/electronick86), [bmichotte](https://github.com/michotte) |
 | German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven), [renky](https://github.com/renky) |
 | Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
 | Hungarian  | **hu** |  | [milli05](https://github.com/milli05), [drobee](https://github.com/drobee) |
