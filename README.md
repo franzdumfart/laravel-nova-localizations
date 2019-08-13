@@ -21,7 +21,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley), [yangliulnn](https://github.com/yangliulnn), [nighon](https://github.com/nighon) |
 | Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom), [yangliulnn](https://github.com/yangliulnn), [MilesWuCode](https://github.com/MilesWuCode) |
 | Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
-| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem) |
+| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem), [johanvanhelden](https://github.com/johanvanhelden) |
 | English  | **en** | en-us | Nova folks |
 | Finnish  | **fi** |  | [joonas1234](https://github.com/joonas1234), [SirMathays](https://github.com/SirMathays) |
 | French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat), [electronick86](https://github.com/electronick86), [bmichotte](https://github.com/michotte) |
