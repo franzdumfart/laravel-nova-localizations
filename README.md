@@ -62,7 +62,7 @@ You can make sure that you are always up to date with the latest translations by
             "@php -r \"mkdir('./resources/lang/vendor/nova', 0776, true);\"",
             "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.json', './resources/lang/vendor/nova/fr.json') || exit (1);\"",
             "@php -r \"mkdir('./resources/lang/vendor/nova/fr', 0776, true);\"",
-            "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.validation.php', './resources/lang/vendor/nova/fr.validation.php') || exit (1);\""
+            "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr/validation.php', './resources/lang/vendor/nova/fr/validation.php') || exit (1);\""
         ]
     },
 }
@@ -72,7 +72,7 @@ Don't forget to customize for your needs.
 
 ### Force Nova localization
 
-If you need to force localization of Nova, you can add the following lines to `NovaServiceProvider.php` in the `boot` method :
+If you need to force the localization of Nova, you can add the following lines to `NovaServiceProvider.php` in the `boot` method :
 
 ```php
 Nova::serving(function () {
