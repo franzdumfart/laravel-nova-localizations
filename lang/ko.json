@@ -339,5 +339,27 @@
     "Zambia": "잠비아",
     "Zimbabwe": "짐바브웨",
     "Yes": "예.",
-    "No": "아니오."
+    "No": "아니오.",
+    "Action Name": "이름",
+    "Action Initiated By": "Initiated By",
+    "Action Target": "목표",
+    "Action Status": "상태",
+    "Action Happened At": "Happened ",
+    "Choose date": "데이터를 고르세요",
+    "Reset Password Notification": "패스워드 재설정 공지",
+    "Nova User": "노바 사용자",
+    "The :resource was updated!": "리소스가 갱신되었습니다.!",
+    "Increase": "증가하다",
+    "Constant": "변함없는",
+    "Decrease": "감소하다.",
+    "no file selected": "선택된 파일이 없습니다.",
+    "resource": "리소스",
+    "download":"다운로드",
+    "complete":"완료하다",
+    "fail":"실패하다.",
+    "package":"패키지"
+
+
+
+
 }
