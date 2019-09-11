@@ -30,7 +30,7 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 | Hungarian  | **hu** |  | [milli05](https://github.com/milli05), [drobee](https://github.com/drobee) |
 | Indonesian  | **id** |  | [mul14](https://github.com/mul14), [zeroseed](https://github.com/zeroseed) |
 | Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
-| Korean  | **ko** |  | [getsolaris](https://github.com/getsolaris) |
+| Korean  | **ko** |  | [getsolaris](https://github.com/getsolaris), [namolab](https://github.com/namolab) |
 | Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz) |
 | Norwegian | **nb** | nb-no | [LasseHaslev](https://github.com/LasseHaslev), [Marcuzz](https://github.com/Marcuzz) |
 | Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
