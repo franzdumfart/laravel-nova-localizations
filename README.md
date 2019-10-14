@@ -10,39 +10,39 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 ## Available languages (30 languages)
 
-| Language | Code | LCID | Thanks to |
-| :--- | ------------- | ------------- | :--- |
-| Albanian  | **sq** |  | [sallmin](https://github.com/sallmin) |
-| Arabic  | **ar** | ar-sy | [Danyel Alkeddah](https://github.com/K3DVII)  |
-| Azeri | **az** | az-az | [Energon7](https://github.com/Energon7) |
-| Bengali  | **bn** | bn-bd | [iamazik](https://github.com/iamazik) |
-| Bulgarian  | **bg** | bg | [suncho26](https://github.com/suncho26) |
-| Catalan  | **ca** | es-ca | [lloople](https://github.com/lloople) |
-| Chinese (China) | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley), [yangliulnn](https://github.com/yangliulnn), [nighon](https://github.com/nighon) |
-| Chinese (Traditional)  | **zh** | zh-tw | [tinghom](https://github.com/tinghom), [yangliulnn](https://github.com/yangliulnn), [MilesWuCode](https://github.com/MilesWuCode) |
-| Danish  | **da** |  | [peterbrinck](https://github.com/peterbrinck) |
-| Dutch  | **nl** |  | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem), [johanvanhelden](https://github.com/johanvanhelden) |
-| English  | **en** | en-us | Nova folks |
-| Finnish  | **fi** |  | [joonas1234](https://github.com/joonas1234), [SirMathays](https://github.com/SirMathays) |
-| French  | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat), [electronick86](https://github.com/electronick86), [bmichotte](https://github.com/michotte) |
-| German | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven), [renky](https://github.com/renky) |
-| Greek  | **gr** |  | [Erth0](https://github.com/Erth0) |
-| Hungarian  | **hu** |  | [milli05](https://github.com/milli05), [drobee](https://github.com/drobee) |
-| Indonesian  | **id** |  | [mul14](https://github.com/mul14), [zeroseed](https://github.com/zeroseed) |
-| Italian  | **it** | it-it | [s3b4stian](https://github.com/s3b4stian) |
-| Korean  | **ko** |  | [getsolaris](https://github.com/getsolaris), [namolab](https://github.com/namolab) |
-| Lithuanian  | **lt** |  | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz) |
-| Norwegian | **nb** | nb-no | [LasseHaslev](https://github.com/LasseHaslev), [Marcuzz](https://github.com/Marcuzz) |
-| Persian (Farsi)  | **fa** |  | [mehranhadidi](https://github.com/mehranhadidi) |
-| Polish  | **pl** |  | [aurawindsurfing](https://github.com/aurawindsurfing), [JackShev](https://github.com/JackShev) |
-| Portuguese (Brazil)  | **pt** | pt-br | [dessimoni](https://github.com/dessimoni) |
-| Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew) |
-| Russian  | **ru** | ru | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov), [mexoboy](https://github.com/mexoboy), [darmen](https://github.com/darmen) |
-| Slovenian  | **sl** | sl | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll) |
-| Spanish  | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna) |
-| Tagalog  | **tl** |  | [ambengers](https://github.com/ambengers) |
-| Turkish  | **tr** |  | [emir](https://github.com/emir), [EnesCakir](https://github.com/EnesCakir) |
-| Ukrainian  | **uk** |  | [ustych](https://github.com/ustych), [igorbabko](https://github.com/igorbabko) |
+| Language              | Code   | LCID  | Thanks to                                                                                                                                                                                                                                            |
+| :-------------------- | ------ | ----- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Albanian              | **sq** |       | [sallmin](https://github.com/sallmin)                                                                                                                                                                                                                |
+| Arabic                | **ar** | ar-sy | [Danyel Alkeddah](https://github.com/K3DVII)                                                                                                                                                                                                         |
+| Azeri                 | **az** | az-az | [Energon7](https://github.com/Energon7)                                                                                                                                                                                                              |
+| Bengali               | **bn** | bn-bd | [iamazik](https://github.com/iamazik)                                                                                                                                                                                                                |
+| Bulgarian             | **bg** | bg    | [suncho26](https://github.com/suncho26)                                                                                                                                                                                                              |
+| Catalan               | **ca** | es-ca | [lloople](https://github.com/lloople)                                                                                                                                                                                                                |
+| Chinese (China)       | **zh** | zh-cn | [jltxwesley](https://github.com/jltxwesley), [yangliulnn](https://github.com/yangliulnn), [nighon](https://github.com/nighon)                                                                                                                        |
+| Chinese (Traditional) | **zh** | zh-tw | [tinghom](https://github.com/tinghom), [yangliulnn](https://github.com/yangliulnn), [MilesWuCode](https://github.com/MilesWuCode)                                                                                                                    |
+| Danish                | **da** |       | [peterbrinck](https://github.com/peterbrinck)                                                                                                                                                                                                        |
+| Dutch                 | **nl** |       | [Cannonb4ll](https://github.com/Cannonb4ll), [patrickbergman](https://github.com/patrickbergman), [DannyStreur](https://github.com/DannyStreur), [ovvessem](https://github.com/ovvessem), [johanvanhelden](https://github.com/johanvanhelden)        |
+| English               | **en** | en-us | Nova folks                                                                                                                                                                                                                                           |
+| Finnish               | **fi** |       | [joonas1234](https://github.com/joonas1234), [SirMathays](https://github.com/SirMathays)                                                                                                                                                             |
+| French                | **fr** | fr-fr | [xel1045](https://github.com/xel1045), [benjamincrozat](https://github.com/benjamincrozat), [electronick86](https://github.com/electronick86), [bmichotte](https://github.com/michotte), [Manoz](https://github.com/Manoz)                           |
+| German                | **de** | de-de | [franzdumfart](https://github.com/franzdumfart), [mrmonat](https://github.com/mrmonat), [pajoda](https://github.com/pajoda), [dastiii](https://github.com/dastiii), [hofmannsven](https://github.com/hofmannsven), [renky](https://github.com/renky) |
+| Greek                 | **gr** |       | [Erth0](https://github.com/Erth0)                                                                                                                                                                                                                    |
+| Hungarian             | **hu** |       | [milli05](https://github.com/milli05), [drobee](https://github.com/drobee)                                                                                                                                                                           |
+| Indonesian            | **id** |       | [mul14](https://github.com/mul14), [zeroseed](https://github.com/zeroseed)                                                                                                                                                                           |
+| Italian               | **it** | it-it | [s3b4stian](https://github.com/s3b4stian)                                                                                                                                                                                                            |
+| Korean                | **ko** |       | [getsolaris](https://github.com/getsolaris), [namolab](https://github.com/namolab)                                                                                                                                                                   |
+| Lithuanian            | **lt** |       | [girvydas](https://github.com/girvydas), [Justas Maziliauskas](https://github.com/justutiz)                                                                                                                                                          |
+| Norwegian             | **nb** | nb-no | [LasseHaslev](https://github.com/LasseHaslev), [Marcuzz](https://github.com/Marcuzz)                                                                                                                                                                 |
+| Persian (Farsi)       | **fa** |       | [mehranhadidi](https://github.com/mehranhadidi)                                                                                                                                                                                                      |
+| Polish                | **pl** |       | [aurawindsurfing](https://github.com/aurawindsurfing), [JackShev](https://github.com/JackShev)                                                                                                                                                       |
+| Portuguese (Brazil)   | **pt** | pt-br | [dessimoni](https://github.com/dessimoni)                                                                                                                                                                                                            |
+| Portuguese (Portugal) | **pt** | pt-pt | [sikrew](https://github.com/sikrew)                                                                                                                                                                                                                  |
+| Russian               | **ru** | ru    | [SerhiiStarovoitov](https://github.com/SerhiiStarovoitov), [mexoboy](https://github.com/mexoboy), [darmen](https://github.com/darmen)                                                                                                                |
+| Slovenian             | **sl** | sl    | [morpheus7CS](https://github.com/morpheus7CS), [squierll](https://github.com/squierll)                                                                                                                                                               |
+| Spanish               | **es** | es-es | [tinthenet](https://github.com/tinthenet), [Zerquix18](https://github.com/Zerquix18), [driade](https://github.com/driade), [kennyhorna](https://github.com/kennyhorna)                                                                               |
+| Tagalog               | **tl** |       | [ambengers](https://github.com/ambengers)                                                                                                                                                                                                            |
+| Turkish               | **tr** |       | [emir](https://github.com/emir), [EnesCakir](https://github.com/EnesCakir)                                                                                                                                                                           |
+| Ukrainian             | **uk** |       | [ustych](https://github.com/ustych), [igorbabko](https://github.com/igorbabko)                                                                                                                                                                       |
 
 ## Usage
 
@@ -57,14 +57,14 @@ You can make sure that you are always up to date with the latest translations by
 
 ```json
 {
-    "scripts": {
-        "pre-update-cmd": [
-            "@php -r \"mkdir('./resources/lang/vendor/nova', 0776, true);\"",
-            "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.json', './resources/lang/vendor/nova/fr.json') || exit (1);\"",
-            "@php -r \"mkdir('./resources/lang/vendor/nova/fr', 0776, true);\"",
-            "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr/validation.php', './resources/lang/vendor/nova/fr/validation.php') || exit (1);\""
-        ]
-    },
+  "scripts": {
+    "pre-update-cmd": [
+      "@php -r \"mkdir('./resources/lang/vendor/nova', 0776, true);\"",
+      "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr.json', './resources/lang/vendor/nova/fr.json') || exit (1);\"",
+      "@php -r \"mkdir('./resources/lang/vendor/nova/fr', 0776, true);\"",
+      "@php -r \"copy('https://raw.githubusercontent.com/franzdumfart/laravel-nova-localizations/master/lang/fr/validation.php', './resources/lang/vendor/nova/fr/validation.php') || exit (1);\""
+    ]
+  }
 }
 ```
 
