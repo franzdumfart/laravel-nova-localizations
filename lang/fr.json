@@ -397,5 +397,8 @@
     ":amount Total": ":amount Total",
     "Show All Fields": "Voir tous les champs",
     "There was a problem submitting the form.": "Il y a eu un problème lors de l’envoi du formulaire.",
-    "There was a problem executing the action.": "Il y a eu un problème pour éxecuter l’action."
+    "There was a problem executing the action.": "Il y a eu un problème pour éxecuter l’action.",
+    "*": "*",
+    "—": "—",
+    "The file was deleted!": "Ce fichier a été supprimé!"
 }
