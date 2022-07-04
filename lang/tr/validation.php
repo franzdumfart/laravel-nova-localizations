@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'attached' => ':attribute önceden eklendi.',
+    'attached' => ':attribute önceden eklenmiş.',
     'relatable' => ':attribute bu kaynakla ilişkili olmayabilir.',
 ];
