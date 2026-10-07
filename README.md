@@ -6,6 +6,8 @@ This repository is like Babbel for your [Laravel Nova](https://nova.laravel.com)
 
 [![StyleCI Status](https://github.styleci.io/repos/145764698/shield)](https://github.styleci.io/repos/145764698)
 
+> **Status:** The translations were last updated for Nova 3.1 (March 2020), and this repository is no longer actively maintained. Newer Nova versions may contain strings that are missing here, so check the files against your Nova version before using them.
+
 ---
 
 ## Available languages (30 languages)
